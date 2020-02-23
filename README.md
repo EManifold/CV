@@ -22,7 +22,7 @@ When beginning my journey into software development I went from not knowing how 
 Recispeak | Voice recognition app that lists your food at home and returns recipes based on those ingredients | https://github.com/dbacall/Recispeak | JavaScript, React-Native, React-Native Voice, Jest, CircleCI, Code Climate, Spoonacular APIs
 Façade Brochure | A superior, classy alternative to Facebook | https://github.com/EManifold/acebook-zuckermen | Ruby on Rails, JQuery, RSpec, Travis, Rubocop, Code Climate
 
-## Education
+### Education
 
 #### Makers Academy (November 2019 - February 2020)
 
