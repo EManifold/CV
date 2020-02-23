@@ -6,13 +6,13 @@ I’m confident the skills I developed from interacting with others and producin
 
 ### Skills
 
-## Communication
+#### Communication
 Having worked in client-focused and energetic positions over the past few years, I believe this really developed my communication skills. From taking clients on viewings, to liaising with agents, to producing high quality collaborative code, I have a proven track record of delivering results in a team environment. 
 
-## Problem-solving
+#### Problem-solving
 What drew me to coding in the first place was my attraction to problem-solving; breaking down a problem into smaller parts and working on those individually in order to solve the problem as a whole. 
 
-## Independent learning
+#### Independent learning
 When beginning my journey into software development I went from not knowing how to write a single line of code, to building my own multi-page website, with authorisation, a question forum and editable commenting only a few months on. I could not have done so without a strong work ethic and passion to learn. 
 
 ### Projects & Code
