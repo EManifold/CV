@@ -12,25 +12,24 @@ I’m confident the skills I developed from interacting with others and producin
 **Project** | **Description** | **Github Link** | **Technologies Used**
 --- | --- | --- | ---
 Recispeak | Voice recognition app that lists your food at home and returns recipes based on those ingredients | https://github.com/dbacall/Recispeak | JavaScript, React-Native, React-Native Voice, Jest, CircleCI, Code Climate, Spoonacular APIs
-YelpCamp | Website that acts as a campsite review platform, made using Colt Steele's Web Developer Bootcamp tutorial on Udemy | https://github.com/EManifold/YelpCamp | NodeJS, Bootstrap, PassportJS, ExpressJS, HTML, CSS and JavaScript
-Guess the Colour | Game where the user picks the closest colour match to the tile shown, made using Colt Steele's Web Developer Bootcamp tutorial on Udemy | https://github.com/EManifold/ColourGame | HTML, CSS and JavaScript
+Façade Brochure | A superior, classy alternative to Facebook | https://github.com/EManifold/acebook-zuckermen | Ruby on Rails, JQuery, RSpec, Travis, Rubocop, Code Climate
 
 ## Education
 
 #### Makers Academy (November 2019 - February 2020)
 
-- OOP, TDD, MVC, DDD
-- Agile/XP
+- OOP, TDD, MVC
+- Agile, pair-programming
 - Ruby, Rails, JavaScript
-- RSpec, Jasmine
+- RSpec, Jasmine, Jest
 
 #### University of Birmingham, UK (September 2014 - July 2017)
 History, BA (2:1)  
 Italian, MOMD (1st)  
 
-#### Any other qualifications
-
-That in some arguable way make you a better software developer or well-rounded person
+#### Other
+Colt Steele’s Online Web Developer Course - Udemy
+FreeCodeCamp Online Course
 
 ### Experience
 
@@ -44,4 +43,4 @@ That in some arguable way make you a better software developer or well-rounded p
 - Writing blogs and managing the social media for the company.
 
 ### Hobbies
-Piano, cooking, Spikeball, and playing pretty much any game you can think of!
+In my free time I like to playing piano, board games, hanging out with friends and playing Spikeball.
