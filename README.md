@@ -1,11 +1,13 @@
 ## Ellie Manifold
 
-Sentence
+After completing a few online courses over a year ago, my growing passion for writing elegant and well-structured code motivated me to quit my job in marketing and dive into a career in software development; the satisfaction I got from building and creating things outweighed any reservations I had about a career change.   
+   
+I’m confident the skills I developed from interacting with others and producing strong results in a team in marketing, combined with my knowledge of HTML, Ruby and JavaScript will make me a capable developer.   
 
-## Skills
+### Skills
 
 
-## Projects & Code
+### Projects & Code
 
 **Project** | **Description** | **Github Link** | **Technologies Used**
 --- | --- | --- | ---
@@ -30,7 +32,7 @@ Italian, MOMD (1st)
 
 That in some arguable way make you a better software developer or well-rounded person
 
-## Experience
+### Experience
 
 **Marketing Coordinator - Canvas Offices (2018 - 2019)**
 - Generating leads through the use and adaptation of online aggregators.
@@ -41,5 +43,5 @@ That in some arguable way make you a better software developer or well-rounded p
 - Completing analytical and data oriented tasks in order to help Resi’s SEO ranking.
 - Writing blogs and managing the social media for the company.
 
-## Hobbies
+### Hobbies
 Piano, cooking, Spikeball, and playing pretty much any game you can think of!
