@@ -9,7 +9,7 @@ Sentence
 
 **Project** | **Description** | **Github Link** | **Technologies Used**
 --- | --- | --- | ---
-MedicMade | Website for a medical tuition startup | https://github.com/EManifold/MedicMade | NodeJS, Bootstrap, PassportJS, ExpressJS, HTML, CSS and JavaScript
+Recispeak | Voice recognition app that lists your food at home and returns recipes based on those ingredients | https://github.com/dbacall/Recispeak | JavaScript, React-Native, React-Native Voice, Jest, CircleCI, Code Climate, Spoonacular APIs
 YelpCamp | Website that acts as a campsite review platform, made using Colt Steele's Web Developer Bootcamp tutorial on Udemy | https://github.com/EManifold/YelpCamp | NodeJS, Bootstrap, PassportJS, ExpressJS, HTML, CSS and JavaScript
 Guess the Colour | Game where the user picks the closest colour match to the tile shown, made using Colt Steele's Web Developer Bootcamp tutorial on Udemy | https://github.com/EManifold/ColourGame | HTML, CSS and JavaScript
 
