@@ -28,8 +28,8 @@ History, BA (2:1)
 Italian, MOMD (1st)  
 
 #### Other
-Colt Steele’s Online Web Developer Course - Udemy
-FreeCodeCamp Online Course
+Colt Steele’s Online Web Developer Course - Udemy  
+FreeCodeCamp Online Course  
 
 ### Experience
 
