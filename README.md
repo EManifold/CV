@@ -4,14 +4,6 @@ Sentence
 
 ## Skills
 
-**Teamwork**
-- My experience in marketing based positions has allowed me to develop skills from interacting with others and producing strong results in a team. The ability to problem solve was a highly necessary trait and was transferrable when I began learning to code.
-
-**Independent learning**
-- I made the decision midway through this year to quit my job in marketing and pursue a career in software development. To start off, I taught myself to code full time, and managed to acquire an intermediate knowledge of HTML, CSS and JavaScript, building a website as a final project. I am able to manage my time and stay motivated when learning independently, due to my sincere interest in the subject matter.
-
-**Attention to detail**
-- During my time completing my degree, and continued in the workplace, I have developed a keen eye for detail. Every project I undertake will have been thoroughly checked over before its final completion, with no silly errors left unchecked.
 
 ## Projects & Code
 
