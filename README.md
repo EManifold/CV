@@ -51,4 +51,7 @@ FreeCodeCamp Online Course
 - Writing blogs and managing the social media for the company.
 
 ## Hobbies
-In my free time I like to playing piano, board games, hanging out with friends and playing Spikeball.
+In my free time I like to playing piano, board games, hanging out with friends and playing Spikeball.  
+  
+For those interested, please feel free to have a read through my blogs on finding my feet in software development:
+https://dev.to/emanifold
