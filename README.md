@@ -1,10 +1,10 @@
-## Ellie Manifold
+# Ellie Manifold
 
 After completing a few online courses over a year ago, my growing passion for writing elegant and well-structured code motivated me to quit my job in marketing and dive into a career in software development; the satisfaction I got from building and creating things outweighed any reservations I had about a career change.   
    
 I’m confident the skills I developed from interacting with others and producing strong results in a team in marketing, combined with my knowledge of HTML, Ruby and JavaScript will make me a capable developer.   
 
-### Skills
+## Skills
 
 #### Communication
 Having worked in client-focused and energetic positions over the past few years, I believe this really developed my communication skills. From taking clients on viewings, to liaising with agents, to producing high quality collaborative code, I have a proven track record of delivering results in a team environment. 
@@ -15,14 +15,14 @@ What drew me to coding in the first place was my attraction to problem-solving; 
 #### Independent learning
 When beginning my journey into software development I went from not knowing how to write a single line of code, to building my own multi-page website, with authorisation, a question forum and editable commenting only a few months on. I could not have done so without a strong work ethic and passion to learn. 
 
-### Projects & Code
+## Projects & Code
 
 **Project** | **Description** | **Github Link** | **Technologies Used**
 --- | --- | --- | ---
 Recispeak | Voice recognition app that lists your food at home and returns recipes based on those ingredients | https://github.com/dbacall/Recispeak | JavaScript, React-Native, React-Native Voice, Jest, CircleCI, Code Climate, Spoonacular APIs
 Façade Brochure | A superior, classy alternative to Facebook | https://github.com/EManifold/acebook-zuckermen | Ruby on Rails, JQuery, RSpec, Travis, Rubocop, Code Climate
 
-### Education
+## Education
 
 #### Makers Academy (November 2019 - February 2020)
 
@@ -39,7 +39,7 @@ Italian, MOMD (1st)
 Colt Steele’s Online Web Developer Course - Udemy  
 FreeCodeCamp Online Course  
 
-### Experience
+## Experience
 
 **Marketing Coordinator - Canvas Offices (2018 - 2019)**
 - Generating leads through the use and adaptation of online aggregators.
@@ -50,5 +50,5 @@ FreeCodeCamp Online Course
 - Completing analytical and data oriented tasks in order to help Resi’s SEO ranking.
 - Writing blogs and managing the social media for the company.
 
-### Hobbies
+## Hobbies
 In my free time I like to playing piano, board games, hanging out with friends and playing Spikeball.
