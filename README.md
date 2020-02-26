@@ -4,8 +4,8 @@ After completing a few online courses over a year ago, my growing passion for wr
    
 I’m confident the skills I developed from interacting with others and producing strong results in a team in marketing, combined with my knowledge of HTML, Ruby and JavaScript will make me a capable developer.   
 
-For those interested, please feel free to have a read through my blog on finding my feet in software development:
-https://dev.to/emanifold
+For those interested, please feel free to have a read through my [blog](https://dev.to/emanifold) on finding my feet in software development.
+
 
 ## Skills
 
@@ -20,10 +20,10 @@ When beginning my journey into software development I went from not knowing how 
 
 ## Projects & Code
 
-**Project** | **Description** | **Github Link** | **Technologies Used**
+**Project** | **Description** | **Technologies Used**
 --- | --- | --- | ---
-Recispeak | Voice recognition app that lists your food at home and returns recipes based on those ingredients | https://github.com/dbacall/Recispeak | JavaScript, React-Native, React-Native Voice, Jest, CircleCI, Code Climate, Spoonacular APIs
-Façade Brochure | A superior, classy alternative to Facebook | https://github.com/EManifold/acebook-zuckermen | Ruby on Rails, JQuery, RSpec, Travis, Rubocop, Code Climate
+[Recispeak](https://github.com/dbacall/Recispeak) | Voice recognition app that lists your food at home and returns recipes based on those ingredients | JavaScript, React-Native, React-Native Voice, Jest, CircleCI, Code Climate, Spoonacular APIs
+[Façade Brochure](https://github.com/EManifold/acebook-zuckermen) | A classy alternative to Facebook | Ruby on Rails, JQuery, RSpec, Travis, Rubocop, Code Climate
 
 ## Education
 
