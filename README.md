@@ -4,7 +4,7 @@ After completing a few online courses over a year ago, my growing passion for wr
    
 I’m confident the skills I developed from interacting with others and producing strong results in a team in marketing, combined with my knowledge of HTML, Ruby and JavaScript will make me a capable developer.   
 
-For those interested, please feel free to have a read through my blogs on finding my feet in software development:
+For those interested, please feel free to have a read through my blog on finding my feet in software development:
 https://dev.to/emanifold
 
 ## Skills
@@ -54,4 +54,4 @@ FreeCodeCamp Online Course
 - Writing blogs and managing the social media for the company.
 
 ## Hobbies
-In my free time I like to playing piano, board games, hanging out with friends and playing Spikeball.  
+In my free time I like playing piano, board games, hanging out with friends and playing Spikeball.  
