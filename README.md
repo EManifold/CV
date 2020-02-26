@@ -21,7 +21,7 @@ When beginning my journey into software development I went from not knowing how 
 ## Projects & Code
 
 **Project** | **Description** | **Technologies Used**
---- | --- | --- | ---
+--- | --- | ---
 [Recispeak](https://github.com/dbacall/Recispeak) | Voice recognition app that lists your food at home and returns recipes based on those ingredients | JavaScript, React-Native, React-Native Voice, Jest, CircleCI, Code Climate, Spoonacular APIs
 [Façade Brochure](https://github.com/EManifold/acebook-zuckermen) | A classy alternative to Facebook | Ruby on Rails, JQuery, RSpec, Travis, Rubocop, Code Climate
 
